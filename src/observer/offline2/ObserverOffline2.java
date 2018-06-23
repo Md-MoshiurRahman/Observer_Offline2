@@ -20,7 +20,7 @@ interface Message
 
 
 
-class ObserverPattern {
+class ObserverOffline2 {
 
     public static void main(String[] args) {
 
